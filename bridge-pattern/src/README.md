@@ -1,0 +1,1 @@
+Esse exemplo está errado por que usei if para verificar o tipo da arma DENTRO da classe do personagem. Isso deve estar 100% acoplado à arma, e não ao personagem.
